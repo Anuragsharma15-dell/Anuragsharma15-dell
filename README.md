@@ -1,15 +1,20 @@
-## Hello World, I am Anurag
-<!--
-**Anuragsharma15-dell/Anuragsharma15-dell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sixtyfour&pause=1000&color=68AAFF&width=435&lines=Hello+World!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Axshul&show_icons=true&theme=dark" height="160"/> 
+
+
+
+<div align="center">
+  
+![Achievement Badge](https://github-profile-trophy.vercel.app/?username=Axshul&theme=darkhub)
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Axshul.Axshul"  />
+
+
+</div>
+
+---
