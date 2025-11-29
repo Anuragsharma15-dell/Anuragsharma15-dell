@@ -1,73 +1,61 @@
-
-i<!-- Typing Header -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=4C8BFF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Axshul+👋;Full-Stack+Developer;AI+%26+Automation+Enthusiast;Building+cool+things+every+day!">
-  </a>
-</p>
-
----
-
-<!-- Profile Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anurag&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anurag&theme=onestar&column=8&margin-w=10&margin-h=10&no-frame=true"/>
-</p>
-
----
-
-## 🧠 About Me  
-
-- 🔭 Currently building **AI-powered apps, automation tools & SaaS products**  
-- ⚡ Love working with **React • Next.js • Node • Supabase • Tailwind • AI APIs**  
-- 🧩 Passionate about clean UI, developer tools, and solving real-world problems  
-- 🎯 Goal: Build tools that help people work smarter, not harder  
-
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,js,py,tailwind,git,github,mongodb,mysql,postgres,vercel,supabase,figma" />
-</p>
-
----
-
-## 🚀 Featured Projects  
-
-### 🔹 **AI Lingo — Multilingual AI Image Generator**  
-Modern AI image generator with multiple languages, built using **React, Supabase, Tailwind, Vercel AI, and Shadcn UI**  
-> Live link, demo, or GIF (if you want I can design this section more)
-
-### 🔹 **More Projects Coming Soon…**
-
----
-
-## 📊 GitHub Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Socials  
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="45"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="45"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="45"></a>
-</p>
+<!-- Typing Title -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monocraft&size=32&pause=1000&color=4AAEFF&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Anurag+👋;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anurag.Anurag" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Axshul&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axshul&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
+---
+
+### 🚀 About Me
+- 👨‍💻 My name is **Anurag**
+- 💡 Passionate developer & tech explorer  
+- ⚙️ I love building cool and useful projects  
+- 📚 Always learning new technologies  
+- 🧠 Focus: Web Dev • Python • Tools • Automation  
+
+---
+
+### 🛠️ Tech Stack
 <p align="center">
-  <b>🔥 Thanks for visiting my profile — Keep building, keep learning!</b>
-</p
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github,vscode,linux,bash" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+<p align="center">
+  
+![Trophy](https://github-profile-trophy.vercel.app/?username=Axshul&theme=algolia&no-frame=true&margin-w=15)
+
+</p>
+
+---
+
+### 📊 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Axshul&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 👀 Visitor Count
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Axshul.Axshul" />
+</p>
+
+---
+
+### 💬 Connect With Me
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="45"/></a>
+</p>
+
+---
+
+⭐ **If you like this profile, consider giving a star to my repositories!**
