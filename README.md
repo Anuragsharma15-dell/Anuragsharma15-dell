@@ -9,13 +9,13 @@
 
 <!-- Profile Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Axshul&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axshul&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anurag&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Axshul&theme=onestar&column=8&margin-w=10&margin-h=10&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Anurag&theme=onestar&column=8&margin-w=10&margin-h=10&no-frame=true"/>
 </p>
 
 ---
@@ -49,7 +49,7 @@ Modern AI image generator with multiple languages, built using **React, Supabase
 
 ## 📊 GitHub Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Axshul&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -64,7 +64,7 @@ Modern AI image generator with multiple languages, built using **React, Supabase
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Axshul.Axshul" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anurag.Anurag" />
 </p>
 
 <p align="center">
