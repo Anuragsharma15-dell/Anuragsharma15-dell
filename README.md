@@ -1,4 +1,5 @@
-<!-- Typing Header -->
+
+i<!-- Typing Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=4C8BFF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Axshul+👋;Full-Stack+Developer;AI+%26+Automation+Enthusiast;Building+cool+things+every+day!">
@@ -69,4 +70,4 @@ Modern AI image generator with multiple languages, built using **React, Supabase
 
 <p align="center">
   <b>🔥 Thanks for visiting my profile — Keep building, keep learning!</b>
-</p>
+</p
