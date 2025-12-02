@@ -4,8 +4,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Axshul&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axshul&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anuragl&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
